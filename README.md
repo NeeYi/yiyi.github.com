@@ -1,2 +1,2 @@
-# topic model
+# topic model (LDA)
 # word embedding
